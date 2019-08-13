@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: gatsby-netlify-blog
+  repo: ck-digia/gatsby-netlify-blog
 
 media_folder: static/assets
 public_folder: assets
